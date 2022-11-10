@@ -1,6 +1,7 @@
 body{
     
-    
+    margin: 0px;
+    padding: 0px;
     background-color: rgb(207, 204, 204);
     
 }
@@ -30,7 +31,7 @@ align-items: center;
     width: 400px;
     height: 73px;
     text-align: left;
-    margin-left: 935px;
+    margin-left: 943px;
     background-color: white;
 
 
@@ -53,7 +54,7 @@ align-items: center;
     text-align: right;
     width: 200px;
     height: 60px;
-    margin-left:1903px;
+    margin-left:1910px;
     margin-top: -60px;
      padding:0px;
      color:gray;
