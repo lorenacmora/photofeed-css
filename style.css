@@ -1,89 +1,63 @@
-body{
+body {
     margin: 0px;
     padding: 0px;
-     background-color:rgb(207, 204, 204);
-     display: block;
-    
+    background-color: rgb(207, 204, 204);
+    display: block;
+
 }
 
-body h1{
+body h1 {
     background: white;
     width: 100%;
     height: 80px;
     text-align: center;
     margin: 0px;
-   
-  
 }
+
+.post {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0px;
+    padding: 0px;
+    
+
+
+}
+
 img {
-height: 300px;
-width: 413px;
-margin: 0px auto;
-display: flex;
-justify-content: center;
-align-items: center;
+    height: 300px;
+    width: 413px;
+    margin: 0px auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 
 }
-.titulo-foto
-{
-    margin:20px;
-    padding: 5px;
-    width: 400px;
-    height: 73px;
-    text-align: left;
-    margin-left: 943px;
-    background-color: white;
-
-
- 
-}
-.box 
-{
-    
-    text-align: right;
-    width: 200px;
-    height: 60px;
-    margin-left: 752px;
-
-
-    
-}
- 
-.fecha{
+.fecha {
     background-color: white;
     text-align: right;
-    width: 200px;
+    width: 413px;
     height: 60px;
-    margin-left:1897px;
     margin-top: -40px;
-     padding:0px;
-     color:gray;
-     display: flex;
-     justify-content: right;
-     align-items:stretch;
-      
+    padding: 0px;
+    color: gray;
+    display: flex;
+    justify-content: right;
+    align-items: stretch;
+
 }
-.span{
-    margin-top: 5px;
-}
-.box-2{
+
+
+
+.box-2 {
     background-color: white;
     text-align: justify;
-    width: 410px;
+    width: 413px;
     height: 60px;
     padding: 1px;
-    margin: 0px auto;  
+    margin: 0px auto;
     justify-content: space-between;
-    align-items: center; 
+    align-items: center;
 }
-.box-3 
-{
-    background-color: white;
-    text-align: right;
-    width: 200px;
-    height: 60px;
-    margin-left: 760px;
-    
-    
-    
-}
+
